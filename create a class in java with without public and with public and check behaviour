@@ -1,0 +1,10 @@
+Without main method getting error as Main method not found in class Q, please define the main method as:
+   public static void main(String[] args)
+   With main method the answer is below- 
+   
+   "class Q {
+public static void main (String []args){
+}
+}
+   
+   "
